@@ -1,0 +1,2 @@
+# Imagebed
+Used for Typora
