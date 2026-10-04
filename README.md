@@ -1,2 +1,2 @@
 # Imagebed
-Used for Typora
+Used for Typora in YOGA pro16 
